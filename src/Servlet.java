@@ -5,7 +5,7 @@ import java.io.*;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-import static org.apache.commons.lang3.StringEscapeUtils.escapeHtml4;
+//import static org.apache.commons.lang3.StringEscapeUtils.escapeHtml4;
 
 public class Servlet extends javax.servlet.http.HttpServlet {
     private final static int LINES_STEP = 5000;
