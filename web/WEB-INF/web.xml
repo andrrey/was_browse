@@ -11,7 +11,7 @@
    http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd" version="3.0">
     <servlet>
         <servlet-name>Servlet</servlet-name>
-        <servlet-class>Servlet</servlet-class>
+        <servlet-class>su.semenyuk.was_browse.Servlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>Servlet</servlet-name>
